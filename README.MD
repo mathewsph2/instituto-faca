@@ -4,6 +4,17 @@ Ampliação do site institucional do **Instituto Assistencial FAÇA**, com o obj
 
 Projeto Integrador de Extensão (PIEX) — Curso de Análise e Desenvolvimento de Sistemas, Faculdades Vianna Júnior · 2026-2.
 
+## 🏛️ Sobre o Instituto FAÇA
+O **Instituto Assistencial FAÇA** é uma organização sem fins lucrativos de **Juiz de Fora/MG** que, há mais de seis anos, apoia pessoas em situação de vulnerabilidade social. Suas principais ações são:
+
+- 🧠 **Comunidades terapêuticas** — workshops, treinamentos e palestras motivacionais
+- 👶 **Gestantes** — enxovais e doações
+- 🧥 **Doação de roupas**
+- 🥪 **Lanches** às pessoas em situação de rua (quintas e domingos)
+- 🤝 **Encaminhamento** voluntário a comunidades terapêuticas
+
+📸 [@institutofaca](https://instagram.com/institutofaca)
+
 🌐 **No ar:** https://institutofaca.org.br
 
 > 🚧 Projeto em desenvolvimento. Este documento será atualizado conforme o projeto avança.
